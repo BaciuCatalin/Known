@@ -138,4 +138,7 @@ section:nth-child(3){
 	padding: 50px 42px 50px 42px;
 	margin: 0 0px 0 5px;
 }
+.bloc{
+	white-space:nowrap;
+}
 
